@@ -1,5 +1,5 @@
 {
-  "name": "ledger-bitcoin",
+  "name": "@nhamilton1/ledgerhw-app-bitcoin-new-js",
   "version": "0.0.1",
   "description": "Ledger Hardware Wallet Bitcoin Application Client",
   "main": "build/main/index.js",
